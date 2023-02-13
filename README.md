@@ -1,4 +1,4 @@
-## Hi , I'm Anadara Belmont!
+## Olá, eu sou a Anadara Belmont, Desenvolvedora Jr.
 
 
 ### Sobre mim
