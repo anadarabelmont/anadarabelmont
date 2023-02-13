@@ -1,7 +1,10 @@
+## Hi , I'm Anadara Belmont!
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Anadara+Belmont+Zanin;I'm+25+years+old;I'm+from+Brazil;I+am+an+Internet+Systems+student;+Welcome!+:%29)](https://git.io/typing-svg)
+### Sobre mim
+🎓 Sou estudante de Sistemas para Internet; </br>
+🌱 Aprendendo principalmente HTML, CSS, JavaScript, React e Angular atualmente; </br>
+🚀 Estou em busca da minha primeira experiência na área tech :D </br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anadarabelmont&bg_color=0d1117&color=D8BFD8&line=9370DB&point=FFF0F5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
