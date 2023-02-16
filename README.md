@@ -1,4 +1,4 @@
-## Olá, eu sou a Anadara Belmont, Desenvolvedora Jr.
+## Olá, eu sou a Anadara Belmont, estudante na área do desenvolvimento!
 
 
 ### Sobre mim
