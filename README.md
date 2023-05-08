@@ -2,7 +2,7 @@
 
 
 ### Sobre mim
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas; </br>
+🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos; </br>
 🌱 Aprendendo principalmente HTML, CSS, JavaScript, Java e Python atualmente; </br>
 🚀 Estou em busca da minha primeira experiência na área tech :D </br>
 
@@ -31,10 +31,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 
 
 
 #### Studying in this moment:
+![CSS](https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
