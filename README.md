@@ -3,7 +3,7 @@
 
 ### Sobre mim
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos; </br>
-🌱 Aprendendo principalmente HTML, CSS, JavaScript, Java e Python atualmente; </br>
+🌱 Aprendendo principalmente HTML, CSS, JavaScript e Python atualmente; </br>
 🚀 Estou em busca da minha primeira experiência na área tech :D </br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anadarabelmont&bg_color=0d1117&color=D8BFD8&line=9370DB&point=FFF0F5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
