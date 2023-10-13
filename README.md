@@ -18,10 +18,10 @@
 
 <div align=center> 
 
-  <a href="https://instagram.com/anablmnt" target="_blank"><img src="https://img.shields.io/badge/Instagram-8075ff?style=for-the-badge&logo=instagram&logoColor=black"></a>
-  <a href = "https://www.behance.net/anadarabelmontz"><img src="https://img.shields.io/badge/-Behance-8075ff?style=for-the-badge&logo=behance&logoColor=black"></a>
-  <a href = "mailto:anadarabelmont01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-8075ff?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anadarabelmont" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8075ff?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+  <a href="https://instagram.com/anablmnt" target="_blank"><img src="https://img.shields.io/badge/Instagram-181925?style=for-the-badge&logo=instagram&logoColor=8075ff"></a>
+  <a href = "https://www.behance.net/anadarabelmontz"><img src="https://img.shields.io/badge/-Behance-181925?style=for-the-badge&logo=behance&logoColor=8075ff"></a>
+  <a href = "mailto:anadarabelmont01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-181925?style=for-the-badge&logo=gmail&logoColor=8075ff" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anadarabelmont" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-181925?style=for-the-badge&logo=linkedin&logoColor=8075ff" target="_blank"></a> 
   
 </div>
 
