@@ -1,4 +1,4 @@
-## Olá, eu sou a Anadara Belmont, estudante na área do desenvolvimento!
+## Olá, sou a Anadara!
 
 
 ### Sobre mim
@@ -18,28 +18,26 @@
 
 <div align=center> 
 
-  <a href="https://instagram.com/anablmnt" target="_blank"><img src="https://img.shields.io/badge/Instagram-D8BFD8?style=for-the-badge&logo=instagram&logoColor=black"></a>
-  <a href = "https://www.behance.net/anadarabelmontz"><img src="https://img.shields.io/badge/-Behance-D8BFD8?style=for-the-badge&logo=behance&logoColor=black"></a>
-  <a href = "mailto:anadarabelmont01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D8BFD8?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anadarabelmont" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-D8BFD8?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
+  <a href="https://instagram.com/anablmnt" target="_blank"><img src="https://img.shields.io/badge/Instagram-8075ff?style=for-the-badge&logo=instagram&logoColor=black"></a>
+  <a href = "https://www.behance.net/anadarabelmontz"><img src="https://img.shields.io/badge/-Behance-8075ff?style=for-the-badge&logo=behance&logoColor=black"></a>
+  <a href = "mailto:anadarabelmont01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-8075ff?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anadarabelmont" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8075ff?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
   
 </div>
 
  
  #### Main skills:
  
-![HTML5](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-8075ff?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-8075ff?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/Bootstrap-8075ff?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
 
 
 
 #### Studying in this moment:
-![CSS](https://img.shields.io/badge/CSS-20232A?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node.JS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp; 
+![CSS](https://img.shields.io/badge/CSS-8075ff?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-8075ff?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-8075ff?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-8075ff?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/PHP-8075ff?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
