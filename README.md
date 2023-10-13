@@ -6,23 +6,19 @@
 🌱 Aprendendo principalmente HTML, CSS, JavaScript e Python atualmente; </br>
 🚀 Estou em busca da minha primeira experiência na área tech :D </br>
 
-## Conecte-se comigo!
-
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://web.dio.me/users/anadarabelmont)
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=0E76A8)](https://github.com/anadarabelmont/)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anadarabelmont&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=9370DB&text_color=D8BFD8&bg_color=0d1117" alt="Anadara Belmont github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadarabelmont&layout=compact&hide_border=true&title_color=9370DB&text_color=D8BFD8&bg_color=0d1117" />
-</div>
-
-<div align=center>
-
-<a href="https://instagram.com/anablmnt" target="_blank"><img src="https://img.shields.io/badge/Instagram-181925?style=for-the-badge&logo=instagram&logoColor=8075ff"></a>
+<div align=start>
+<h3>Conecte-se comigo!</h3>
+<a href = "https://web.dio.me/users/anadarabelmont"><img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge"></a>
 <a href = "https://www.behance.net/anadarabelmontz"><img src="https://img.shields.io/badge/-Behance-181925?style=for-the-badge&logo=behance&logoColor=8075ff"></a>
 <a href = "mailto:anadarabelmont01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-181925?style=for-the-badge&logo=gmail&logoColor=8075ff" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anadarabelmont" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-181925?style=for-the-badge&logo=linkedin&logoColor=8075ff" target="_blank"></a>
 
+</div>
+<br>
+<br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anadarabelmont&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=9370DB&text_color=D8BFD8&bg_color=0d1117" alt="Anadara Belmont github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadarabelmont&layout=compact&hide_border=true&title_color=9370DB&text_color=D8BFD8&bg_color=0d1117" />
 </div>
 
 #### Main skills:
