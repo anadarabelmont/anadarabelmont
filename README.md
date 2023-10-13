@@ -28,16 +28,16 @@
  
  #### Main skills:
  
-![HTML5](https://img.shields.io/badge/HTML5-8075ff?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-8075ff?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/Bootstrap-8075ff?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-181925?style=for-the-badge&logo=html5&logoColor=8075ff)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-181925?&style=for-the-badge&logo=css3&logoColor=8075ff)&nbsp;
+![CSS](https://img.shields.io/badge/Bootstrap-181925?style=for-the-badge&logo=bootstrap&logoColor=8075ff)&nbsp;
 
 
 
 
 #### Studying in this moment:
-![CSS](https://img.shields.io/badge/CSS-8075ff?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-8075ff?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-8075ff?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-8075ff?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/PHP-8075ff?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
+![CSS](https://img.shields.io/badge/CSS-181925?&style=for-the-badge&logo=css3&logoColor=8075ff)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-181925?style=for-the-badge&logo=javascript&logoColor=8075ff)&nbsp;
+![React.js](https://img.shields.io/badge/React-181925?style=for-the-badge&logo=react&logoColor=8075ff)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-181925?style=for-the-badge&logo=typescript&logoColor=8075ff)&nbsp;
+![Php](https://img.shields.io/badge/PHP-181925?style=for-the-badge&logo=php&logoColor=8075ff)&nbsp; 
