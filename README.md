@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos; </br>
+🎓 Sou estudante de Sistemas para Internet; </br>
 🌱 Aprendendo principalmente HTML, CSS, JavaScript e Python atualmente; </br>
 🚀 Estou em busca da minha primeira experiência na área tech :D </br>
 
