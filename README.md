@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-🎓 Sou estudante de Sistemas para Internet; </br>
+🎓 Sou Desenvolvedora Front-end Jr </br>
 🌱 Aprendendo principalmente HTML, CSS, JavaScript e Python atualmente; </br>
 🚀 Estou em busca da minha primeira experiência na área tech :D </br>
 
